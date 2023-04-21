@@ -1,7 +1,9 @@
-# RegistrationForm
+### REGISTRATION FORM
 
 Demo Registration Form
 
 <p>
-<img height="328px" width="175px" src="https://user-images.githubusercontent.com/92852926/179366184-7d77ed69-ca88-4cbf-9508-18d7a84dfbca.png" alt="1"/>
+<center>
+<img height="328px" width="175px" src="https://user-images.githubusercontent.com/92852926/233700264-90908695-5afc-47e2-ae81-e137abb2ab4d.png" alt="1"/>
+</center>
 </p>
