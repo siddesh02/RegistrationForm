@@ -1,5 +1,5 @@
 <center>
-### REGISTRATION FORM
+# REGISTRATION FORM<br>
 
 Demo Registration Form
 
